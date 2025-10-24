@@ -8,5 +8,5 @@ npm install github:SupremeDevelopersClub/AppleUI
 
 ## Usage
 ```html
-<link rel="stylesheet" href="node_modules/@davader/appleui/theme.css">
+<link rel="stylesheet" href="node_modules/appleui/theme.css">
 ```
