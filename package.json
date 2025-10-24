@@ -34,8 +34,4 @@
   "scripts": {
     "test": "echo 'Works Fine!' && exit 0"
   },
-  "dependencies": {
-    "lucide-static": "^0.546.0"
-  },
-  "devDependencies": {}
 }
