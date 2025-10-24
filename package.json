@@ -1,0 +1,41 @@
+{
+  "name": "appleui",
+  "version": "0.30.1",
+  "description": "AppleUI is a modern, elegant CSS framework for static HTML websites.",
+  "keywords": [
+    "ui",
+    "apple",
+    "appleui",
+    "modern",
+    "modernui",
+    "css-framework",
+    "static",
+    "design",
+    "frontend",
+    "ui-kit"
+  ],
+  "homepage": "https://github.com/SupremeDevelopersClub/AppleUI#readme",
+  "bugs": {
+    "url": "https://github.com/SupremeDevelopersClub/AppleUI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SupremeDevelopersClub/AppleUI.git"
+  },
+  "license": "MPL-2.0",
+  "author": "Supreme Development <supreme@supreme.one>",
+  "type": "module",
+  "style": "theme.css",
+  "files": [
+    "theme.css",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "echo 'Works Fine!' && exit 0"
+  },
+  "dependencies": {
+    "lucide-static": "^0.546.0"
+  },
+  "devDependencies": {}
+}
