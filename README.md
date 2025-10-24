@@ -2,6 +2,6 @@
 Modern UI for static websites.
 
 ## Usage
-```css
+```html
 <link rel="stylesheet" href="node_modules/appleui/theme.css">
 ```
