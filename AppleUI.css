@@ -1,3 +1,4 @@
+/* AppleUI */
 .AppleUI {
      --font-sans: ui-sans-serif, -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
      --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
@@ -1417,4 +1418,5 @@
 .AppleUI .text-xs{font-size:.75rem}.AppleUI .text-sm{font-size:.875rem}.AppleUI .text-base{font-size:1rem}.AppleUI .text-lg{font-size:1.125rem}.AppleUI .text-xl{font-size:1.25rem}.AppleUI .text-2xl{font-size:1.5rem}.AppleUI .text-3xl{font-size:1.875rem}.AppleUI .text-4xl{font-size:2.25rem}
 .AppleUI .fw-400{font-weight:400}.AppleUI .fw-500{font-weight:500}.AppleUI .fw-600{font-weight:600}.AppleUI .fw-700{font-weight:700}.AppleUI .fw-800{font-weight:800}.AppleUI .fw-900{font-weight:900}
 .AppleUI .leading-tight{line-height:1.2}.AppleUI .leading-snug{line-height:1.35}.AppleUI .leading-normal{line-height:1.5}
+
 .AppleUI .tracking-tight{letter-spacing:-.02em}.AppleUI .tracking-wide{letter-spacing:.02em}
