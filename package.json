@@ -1,7 +1,7 @@
 {
-  "name": "appleui",
+  "name": "uicollection",
   "version": "0.30.1",
-  "description": "AppleUI is a modern, elegant CSS framework for static HTML websites.",
+  "description": "CSS/UI's that made by Supreme Development.",
   "keywords": [
     "ui",
     "apple",
@@ -14,13 +14,13 @@
     "frontend",
     "ui-kit"
   ],
-  "homepage": "https://github.com/SupremeDevelopersClub/AppleUI#readme",
+  "homepage": "https://github.com/SupremeDevelopersClub/UICollection#readme",
   "bugs": {
-    "url": "https://github.com/SupremeDevelopersClub/AppleUI/issues"
+    "url": "https://github.com/SupremeDevelopersClub/UICollection/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SupremeDevelopersClub/AppleUI.git"
+    "url": "git+https://github.com/SupremeDevelopersClub/UICollection.git"
   },
   "license": "MPL-2.0",
   "author": "Supreme Development <supreme@supreme.one>",
